@@ -1,6 +1,7 @@
 # Customer Analytics: Regression & Clustering
 
-This project demonstrates the application of regression and clustering techniques to a customer churn dataset using Python.
+This project demonstrates the application of regression and clustering techniques to a customer churn dataset using Python. +++ python .\regression_analysis.py +++
+python .\data_clustering.py +++
 
 ---
 
